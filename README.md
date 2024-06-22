@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @mannat8404
 - 👀 I’m interested in ethical hacking...
-- 🌱 I’m currently learning hacking ...
+- 🌱  Currently delving deep into the realms of penetration testing and vulnerability assessment.
+- 
 -
 
 <!---
